@@ -1,1 +1,16 @@
 Hi Clinton
+
+
+
+Git Branch:
+
+
+Master => root
+ --> and developing a feature (new page, newwwww) -> feature branch
+
+we have 2 branches
+1. Master (Github)
+2. Feature Branch (in Local)
+
+
+ git pull origin master => update local code base
